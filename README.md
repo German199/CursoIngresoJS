@@ -1,4 +1,8 @@
 # CursoIngresoJS
+# Enriquez German
+
+inferliz era de mi perfil
+
 Curso de ingreso con JavaScript
 
 ejercitación y TP para rendir el examen de ingreso 
