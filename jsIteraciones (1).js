@@ -1,0 +1,14 @@
+function mostrar()//while(edad<18){
+	
+	//es una condicion conbucle infinito//´
+{
+	var contador;
+	contador=0;
+	while(contador<10){
+		contador=contador+1;
+		alert(contador);
+		
+	}
+
+
+}//FIN DE LA FUNCIÓN
