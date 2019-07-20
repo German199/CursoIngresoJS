@@ -1,11 +1,11 @@
 function mostrar()
 {
-
-    var clave=prompt("ingrese aqui la clave");
+    var clave;
+    clave = prompt("ingrese contraseña aqui.");
     while(clave!="utn750"){
-        clave=prompt("vuelva a ingresar su clave");
-
+       clave = prompt("ingrese nuevamente la clave");
+       
     }
-
-
+    alert("logrado");
+    
 }//FIN DE LA FUNCIÓN
